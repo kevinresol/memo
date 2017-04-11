@@ -1,0 +1,18 @@
+{
+  "name": "memo",
+  "license": "MIT",
+  "tags": [
+    "cross",
+    "cache"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "url": "https://github.com/kevinresol/cache/",
+  "dependencies": {
+    "tink_core": ""
+  }
+}
